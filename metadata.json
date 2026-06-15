@@ -1,0 +1,10 @@
+{
+  "name": "Local Hotel Finder",
+  "description": "Find local hotels and accommodations using Google Maps grounding powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
